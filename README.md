@@ -1,2 +1,2 @@
 # testrepo
-Just a test repo to brush up my github skills
+Just a test repository to brush up my github skills
